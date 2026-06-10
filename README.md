@@ -28,7 +28,7 @@
 
 <!--Intro start-->
 - Registrar Clientes, Editar Clientes, Eliminar Clientes, Listar Clientes, Persistencia de datos con MySQL
-- Además el proyecto sigue una arquitectura por capas
+- Arquitectura por capas
 <!--Intro End-->
 
 <!--profile visit count-->
